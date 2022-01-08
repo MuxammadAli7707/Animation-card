@@ -81,11 +81,12 @@ body {
     padding-top: 10px;
     padding-left: 10px;
     font-size: 20px;
+    transition: all 0.4s ease;
 }
 
 .bx:hover {
+    transform: scale(1.5);
     background-color: #808080;
-    transition: all 0.4s ease;
 }
 
 
